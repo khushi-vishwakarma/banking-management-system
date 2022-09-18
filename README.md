@@ -1,1 +1,3 @@
 # banking-management-system
+In this project I have created virtual bank by using JavaFx and MySQL. Data entered by the user are stored in  Xampp Server database in a tabular format. 
+The purpose of this project is to simulate a banking app providing basic banking facilities in a userfriendly GUI. The project provides a dashboard to the exiting users from where they can transfer, withdraw, and deposit money and see their transaction history. New users will be provided an easy step by step procedure to create an account where they will be given a unique account number an asked some basic questions. 
