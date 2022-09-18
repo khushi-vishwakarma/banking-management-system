@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/createaccount/createAccount.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/accountinfo/AccountInformation.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/accountinfo/AccountInformationController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/design/design.css</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/transactionhistory/History.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/dashbaord/MainScreen.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/withdraw/WithdrawAmount.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/transferamount/TransferAmountController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/transactionhistory/TransactionHistory.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/dashbaord/Dashbaord.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/transactionhistory/TransactionHistoryController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/login/loginScreenController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/createaccount/CreateAccountController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/login/loginScreen.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/dashbaord/DashbaordController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/forgotpass/ForgotpasswordController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/forgotpass/forgotpassword.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/login/Banking.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/dashbaord/MainScreenController.java</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/transferamount/TransferAmount.fxml</file>
+            <file>file:/D:/Banking%20System%20Project/Banking/src/withdraw/WithdrawAmountController.java</file>
+        </group>
+    </open-files>
+</project-private>
